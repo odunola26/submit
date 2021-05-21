@@ -36,6 +36,6 @@ function checkYuGiOh (n)
       return  Array
       
 }
-checkYuGiOh(10);
+checkYuGiOh(10)
 
-checkYuGiOh("5");
+checkYuGiOh("5")
